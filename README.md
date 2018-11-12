@@ -5,6 +5,9 @@ This project concentrates on distributed computing, multithreading, thread defin
 Below is the Architecture :
 
 
+![alt text](Architecture.PNG "Title")
+
+
 
 
 
